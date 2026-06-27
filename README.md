@@ -63,7 +63,7 @@ SecureBank Financial Services engaged a BI Analyst to analyze credit card transa
 3. Geographic clustering of fraud in specific states suggests organized fraud rings
 
 ## Dashboard Link
-(paste your Power BI published link here)
+https://app.powerbi.com/groups/me/reports/94265e7a-306b-4d09-b275-db887270c701/7a6775586057d0635529?experience=power-bi
 
 ## GitHub Repository
-(paste your GitHub link here)
+https://github.com/Catherine-20/DSA3050A_MidSem_Catherine_671041
