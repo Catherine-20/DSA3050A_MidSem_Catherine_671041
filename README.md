@@ -3,7 +3,7 @@
 
 ## Student Information
 - **Name:** Catherine Ingabire
-- **Student ID:** (your ID here)
+- **Student ID:** 671041
 - **Instructor:** Prof. Austin Owur Odera
 - **Semester:** Spring 2026
 
